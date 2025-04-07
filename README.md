@@ -1,6 +1,6 @@
 # Awesome Trustworthy Graph based Retrieval Augmented Generation (GraphRAG)
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation/blob/main/LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/FairyFali/Awesome-Trustworthy-GraphRAG) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/FairyFali/Awesome-Trustworthy-GraphRAG/blob/main/LICENSE)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 🙌 This repository collects papers investigating the trustworthiness of graph-based retrieval augmented generation.
