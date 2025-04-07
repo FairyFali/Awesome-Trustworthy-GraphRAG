@@ -161,19 +161,21 @@
 - \[[arxiv](https://arxiv.org/abs/2401.00396)\] RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models. `2024.05`
 - \[[ACL24](https://aclanthology.org/2024.acl-long.83/)\] WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models. `2024.08`
 -->
+
 ## Contribution
-### 👥 Contributors (🗣️ We don't have any yet but once you contribute your profile will be shown here!)
-<a href="https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation/graphs/contributors">
+
+### 👥 Contributors  
+🗣️ No contributors yet — your name could be the first to appear here!  
+<a href="https://github.com/FairyFali/Awesome-Trustworthy-GraphRAG/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation" />
 </a>
 
-### 🎉 Contributing ( welcome ! )
-- ✨ Add a new paper or update an existing one.
-- 🧐 Use the same format as existing entries to describe the work.
-- 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
+### 🎉 How to Contribute (Everyone is welcome!)  
+- ✨ Add a new paper or improve an existing entry  
+- 🧐 Please follow the same format used in the current entries  
+- 😄 Optionally, include a short note explaining why the paper is worth adding or updating. You can do this through an **Issue** or a **Pull Request**
 
-**Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
-
+**No need to worry if something is not perfect — we will help review and fix it. Just contribute and share your great work! 🤩 We will respond as soon as we can ~ 😉**
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&type=Date)](https://star-history.com/#Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&Date)
