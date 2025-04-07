@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation/blob/main/LICENSE)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-🙌 This repository collects papers investigating the trustworthiness of retrieval augmented generation.
+🙌 This repository collects papers investigating the trustworthiness of graph-based retrieval augmented generation.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
