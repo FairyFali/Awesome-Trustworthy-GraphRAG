@@ -167,7 +167,7 @@
 ### 👥 Contributors  
 🗣️ No contributors yet — your name could be the first to appear here!  
 <a href="https://github.com/FairyFali/Awesome-Trustworthy-GraphRAG/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation" />
+  <img src="https://contrib.rocks/image?repo=FairyFali/Awesome-Trustworthy-GraphRAG" />
 </a>
 
 ### 🎉 How to Contribute (Everyone is welcome!)  
@@ -176,6 +176,7 @@
 - 😄 Optionally, include a short note explaining why the paper is worth adding or updating. You can do this through an **Issue** or a **Pull Request**
 
 **No need to worry if something is not perfect — we will help review and fix it. Just contribute and share your great work! 🤩 We will respond as soon as we can ~ 😉**
+<!--
 ## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&type=Date)](https://star-history.com/#Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&Date)
+-->
